@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauromsilva" alt="mauromsilva" /></a> </p>
 
-- 🔭 I’m currently working on **Predicting Overdue Payments in the company Athena Saúde**
+- 🔭 I’m currently working on **Predicting Overdue Payments Project in Athena Saúde Company**
 
 - 🌱 I’m currently learning **Generative AI**
 
